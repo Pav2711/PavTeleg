@@ -1,5 +1,4 @@
 click
-dlib==19.17.0
 matplotlib
 mglearn
 numpy
